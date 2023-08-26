@@ -1,5 +1,5 @@
 # Traffic-sign-detection-and-classification-using-GTSDB-dataset
-**Project Name: Real-Time Traffic Sign Detection and Classification**
+
 
 **Description:**
 
